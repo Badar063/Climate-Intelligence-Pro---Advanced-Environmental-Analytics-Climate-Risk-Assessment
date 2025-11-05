@@ -1,0 +1,7 @@
+Climate-Intelligence-Pro/
+├── climate_analytics_engine.py
+├── requirements.txt
+├── README.md
+└── sample_data/
+    ├── climate_datasets/
+    └── analysis_results/
